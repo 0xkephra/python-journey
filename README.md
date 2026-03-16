@@ -1,2 +1,2 @@
-# python-journey
-My Python learning journey - freeCodeCamp + exercises
+My Python learning path toward cybersecurity.
+Currently following freeCodeCamp + PracticePython.org exercises.
